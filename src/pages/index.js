@@ -15,10 +15,12 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>ANY.SURF</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
-      <h2>
+      <h1>ANY.SURF</h1>
+      <h2>CURRENTLY WORKING ON BINANCE.COM AND CURRENCY.COM AI NN ML BOT CALLED BOT4 ET GETTING READY TO CREATE ET SELL AI NN ML PROJECTS B2B B2C, 
+        ET LATER THE WORK ON https://github.com/ANYSECURITIES ET https://github.com/ANYSURF</h2> WOULD PROBABLY BEGIN. STAY TUNED! ENJOY! = EUGENE GRIGORIEWITCH FPHILIPPOW
+      <h5>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
@@ -28,7 +30,7 @@ function Index() {
           Vercel
         </a>
         !
-      </h2>
+      </h5>
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
@@ -37,7 +39,7 @@ function Index() {
         >
           This project
         </a>{' '}
-        is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
+        is created from a <a href="https://www.gatsbyjs.org/">Gatsby</a> example app with two
         directories, <code>/src</code> for static content and <code>/api</code>{' '}
         which contains a serverless{' '}
         <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
@@ -47,8 +49,9 @@ function Index() {
         .
       </p>
       <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
+      <h5>The date according to Node.js (TypeScript) is:</h5>
       <p>{date ? date : 'Loading date...'}</p>
+      <h5>Copyright © 2021.....{date ? date : 'Loading date...'} EUGENE GRIGORIEWITCH FPHILIPPOW et people of ANYSURF et ANYSEC. All Rights Reserved.</h5>
     </main>
   );
 }
