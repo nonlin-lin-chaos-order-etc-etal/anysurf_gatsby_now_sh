@@ -21,8 +21,11 @@ function Index() {
       <h1><a href="https://github.com/ECOSurfDeBot">ECOSurfDeBot</a>-CENTRIC.</h1>
       <h2>
         CURRENTLY WORKING ON BINANCE.COM AND CURRENCY.COM AI NN ML BOT CALLED BOT4 ET GETTING READY TO CREATE ET SELL AI NN ML PROJECTS B2B B2C, 
-        ET LATER <h1>THE WORK ON <a href="https://github.com/ANYSECURITIES">ANYSECURITIES</a> ET <a href="https://github.com/ANYSURF">ANYSURF</a> WOULD PROBABLY BEGIN. STAY TUNED! ENJOY! = EUGENE GRIGORIEWITCH FPHILIPPOW
+        ET LATER,
       </h2>
+      <h1>THE WORK ON <a href="https://github.com/ANYSECURITIES">ANYSECURITIES</a> ET <a href="https://github.com/ANYSURF">ANYSURF</a> WOULD PROBABLY BEGIN.
+      STAY TUNED! ENJOY!</h1>
+      
       <p>Meanwhile, you can visit:</p>
       <h1><a href="https://ashvabra.any.surf/">The Temple of The Holy Ashvabra</a></h1>
       <h5>
